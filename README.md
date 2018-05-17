@@ -1,1 +1,4 @@
 # bcpProjectBetter
+
+
+#OPEN MAINNUMBER2 PYTHON FILE TO RUN THE GAME
